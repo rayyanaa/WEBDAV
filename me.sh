@@ -23,13 +23,15 @@ echo
 echo
 echo $cy"==>LIVE TARGET:"
 sleep 1
-echo $i"cblandscapes.co.za"
+echo $i"http://cblandscapes.co.za"
 sleep 1
 echo $i"http://contsol.co.za"
 sleep 1
-echo $i"colourfactory.co.za"
+echo $i"http://colourfactory.co.za"
 sleep 1
 echo $i"http://scnc.co.za"
+sleep 1
+echo $i"http://troon.co.za"
 sleep 1
 
 
