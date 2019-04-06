@@ -21,11 +21,11 @@ echo $pur"=============≠====" $cy "======================"
 sleep 2
 echo
 echo $cy"==>LIVE TARGET:"
-sleep 2
-echo $i"cblandscapes.co.za"
 sleep 1
-echo $ku"http://contsol.co.za"
+echo $me"cblandscapes.co.za"
 sleep 1
-echo $i"colourfactory.co.za"
+echo $pu"http://contsol.co.za"
+sleep 1
+echo $me"colourfactory.co.za"
 sleep 2
 
