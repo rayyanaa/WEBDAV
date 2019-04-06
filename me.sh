@@ -24,7 +24,7 @@ echo $cy"==>LIVE TARGET:"
 sleep 1
 echo $me"cblandscapes.co.za"
 sleep 1
-echo $pu"http://contsol.co.za"
+echo $i"http://contsol.co.za"
 sleep 1
 echo $me"colourfactory.co.za"
 sleep 2
