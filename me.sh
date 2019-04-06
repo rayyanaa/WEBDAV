@@ -19,7 +19,7 @@ echo $i"#" $cy"  TEAM    :"    $pu"Indonesia Security Team"
 echo $i"#" $cy"  TEAM   :"  $me"2EASY4HACK"
 echo $pur"=============≠====" $cy "======================"
 sleep 1
-echo $ku"==>LIVE TARGET:"
+echo $cy"==>LIVE TARGET:"
 sleep 2
 echo $i"cblandscapes.co.za"
 sleep 1
