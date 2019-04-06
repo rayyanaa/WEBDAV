@@ -20,6 +20,7 @@ echo $i"#" $i"  TEAM   :"  $me"2EASY4HACK"
 echo $pur"=============≠====" $cy "======================"
 sleep 2
 echo
+echo
 echo $cy"==>LIVE TARGET:"
 sleep 1
 echo $i"cblandscapes.co.za"
@@ -28,4 +29,5 @@ echo $i"http://contsol.co.za"
 sleep 1
 echo $i"colourfactory.co.za"
 sleep 1
+echo $i"http://scnc.co.za"
 
