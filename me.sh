@@ -18,12 +18,13 @@ echo $i"#" $cy"  Github   :"  $pu"https://github.com/rayyanaa "
 echo $i"#" $cy"  TEAM    :"    $pu"Indonesia Security Team"
 echo $i"#" $i"  TEAM   :"  $me"2EASY4HACK"
 echo $pur"=============≠====" $cy "======================"
-sleep 1
+sleep 2
+echo
 echo $cy"==>LIVE TARGET:"
 sleep 2
 echo $i"cblandscapes.co.za"
 sleep 1
-echo $i"http://contsol.co.za"
+echo $me"http://contsol.co.za"
 sleep 1
 echo $i"colourfactory.co.za"
 sleep 2
