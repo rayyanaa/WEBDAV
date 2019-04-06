@@ -12,11 +12,11 @@ echo
 clear
 echo
 echo $pur"=============≠====" $cy "======================"
-echo $i"#" $cy"  AUTHOR"   :     $me"K4MBING H1T4M      "
-echo $i"#" $i"  GMAIL    :"  $pu"rayyanalifi69@gmail.com"
-echo $i"#" $i"  Github   :"  $pu"https://github.com/rayyanaa "
+echo $i"#" $i"  AUTHOR"   :     $me"K4MBING H1T4M      "
+echo $i"#" $cy"  GMAIL    :"  $pu"rayyanalifi69@gmail.com"
+echo $i"#" $cy"  Github   :"  $pu"https://github.com/rayyanaa "
 echo $i"#" $cy"  TEAM    :"    $pu"Indonesia Security Team"
-echo $i"#" $cy"  TEAM   :"  $me"2EASY4HACK"
+echo $i"#" $i"  TEAM   :"  $me"2EASY4HACK"
 echo $pur"=============≠====" $cy "======================"
 sleep 1
 echo $cy"==>LIVE TARGET:"
