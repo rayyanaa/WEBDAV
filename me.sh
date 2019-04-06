@@ -45,7 +45,7 @@ echo $i"http://mocosi.co.za"
 sleep 1
 echo $me "╭─"$cy"MASUKAN WEB TARGET"$me]":"
 read web 
-echo $cy"MASUKAN SC KALIAN Save ke Sdcard Ext=index.html:"
+echo $me"{MASUKAN SC KALIAN SAVE ke Sdcard EXT=index.html:"
 read sc
 curl -T /sdcard/$sc $web
 echo $ku"{BERHASIL} $web$sc
