@@ -43,5 +43,7 @@ echo $i"http://stand66.com"
 sleep 1
 echo $i"http://mocosi.co.za"
 sleep 1
+echo $cy"MASUKAN WEB TARGET:"
+read web root@./KAMBINGHIT4M= "
 
 
