@@ -14,16 +14,16 @@ echo
 echo $pur"=============≠====" $cy "======================"
 echo $i"#" $cy"  AUTHOR"   :     $me"K4MBING H1T4M      "
 echo $i"#" $i"  GMAIL    :"  $pu"rayyanalifi69@gmail.com"
-echo $i"#" $pu"  Github   :  https://github.com/rayyanaa "
+echo $i"#" $i"  Github   :"  $pu"https://github.com/rayyanaa "
 echo $i"#" $cy"  TEAM    :"    $pu"Indonesia Security Team"
 echo $i"#" $cy"  TEAM   :"  $me"2EASY4HACK"
 echo $pur"=============≠====" $cy "======================"
 sleep 1
 echo $ku"==>LIVE TARGET:"
 sleep 2
-echo $cy"cblandscapes.co.za"
+echo $i"cblandscapes.co.za"
 sleep 1
-echo $pur"http://contsol.co.za"
+echo $i"http://contsol.co.za"
 sleep 1
 echo $i"colourfactory.co.za"
 sleep 2
