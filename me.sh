@@ -44,6 +44,6 @@ sleep 1
 echo $i"http://mocosi.co.za"
 sleep 1
 echo $me "╭─"$cy"MASUKAN WEB TARGET"$me]":"
-read web "╰─root@./KAMBINGHIT4M= "
+read web 
 
 
