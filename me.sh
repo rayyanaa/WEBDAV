@@ -38,5 +38,10 @@ sleep 1
 echo $i"http://foodconsult.co.za"
 sleep 1
 echo $i"http://itsengineering.co.za"
+sleep 1
+echo $i"http://stand66.com"
+sleep 1
+echo $i"http://mocosi.co.za"
+sleep 1
 
 
