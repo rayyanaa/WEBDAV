@@ -30,4 +30,6 @@ sleep 1
 echo $i"colourfactory.co.za"
 sleep 1
 echo $i"http://scnc.co.za"
+sleep 1
+
 
