@@ -49,7 +49,7 @@ echo $me"{"$cy"MASUKAN SC KALIAN SAVE ke Sdcard EXT=index.html"$me"]:"
 read sc
 curl -T /sdcard/$sc $web
 echo $ku"{BERHASIL}" $web/$sc
-echo $me"["echo $cy"SEMOGA BERMANFAAT"$me"]"
+echo $me"["$cy"SEMOGA BERMANFAAT"$me"]"
 
 
 
